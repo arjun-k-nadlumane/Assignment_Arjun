@@ -1,7 +1,7 @@
 # Web Scraping Project
 
 ## Overview
-🚀This project highlights an advanced web scraping approach that not only extracts URLs but also intelligently scrapes associated pages, making it a powerful tool!
+🚀This project highlights an advanced web scraping approach that not only extracts the provided website's content  but also intelligently scrapes all the associated website and all the urls present in the given web url. making it a powerful tool!
 
 This project consists of **two separate scripts** for web scraping:
 
